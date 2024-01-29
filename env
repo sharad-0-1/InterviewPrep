@@ -1,9 +1,0 @@
-NEXTAUTH_URL=http://localhost:3000
-NEXTAUTH_SECRET=mysecretid
-
-GITHUB_ID=35d962b269b3c02a937d
-GITHUB_SECRET=6b1045d8921731a1a6334e268f50815cc5555290
-
-FIREBASE=AIzaSyAjv5TIqka8sWpnDCbhjfY-fHiwK5eREoM
-
-DATABASE_URL=mongodb+srv://loganman8979:logan8979@cluster0.nvngkwo.mongodb.net/experience?retryWrites=true&w=majority
